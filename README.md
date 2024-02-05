@@ -1,4 +1,4 @@
-# Zhao-et-al.-2024-Water-Research-Making-Waves-environmental-surveillance-databases
+# Zhao-et-al.-2024-Water-Research-Making-Waves-wastewater-surveillance-datasets-and-environmental-surveillance-databases
 
 Wastewater surveillance datasets and environmental surveillance databases will be made available in the current folder when the manuscript is accepted for publication.
 
